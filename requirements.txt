@@ -1,0 +1,2 @@
+psutil
+pyreadline; sys_platform == "win32"
